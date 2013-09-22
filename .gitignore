@@ -1,17 +1,5 @@
-*.gem
-*.rbc
-.bundle
-.config
-.yardoc
+# Ignore .DS_Store
+.DS_Store
+
+# Ignore Gemfile.lock
 Gemfile.lock
-InstalledFiles
-_yardoc
-coverage
-doc/
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp

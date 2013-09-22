@@ -1,5 +1,3 @@
 require "interwetten/version"
-
-module Interwetten
-  # Your code goes here...
-end
+require "interwetten/common_methods"
+require "interwetten/clients"
