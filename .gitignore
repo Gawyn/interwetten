@@ -1,2 +1,5 @@
 # Ignore .DS_Store
 .DS_Store
+
+# Ignore Gemfile.lock
+Gemfile.lock
