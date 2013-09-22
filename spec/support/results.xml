@@ -1,0 +1,8 @@
+<FEED xmlns="" NAME="EventResults" DESCRIPTION="The event results of all events during the last 10 days displayed in the language '@LANGUAGE'. You can specify a list of sport kinds, a list of leagues, or both." LAST_REFRESH="2013-02-06T12:56:16" NEXT_REFRESH="2013-02-06T13:06:16" DOMAIN="www.interwetten.com" LANGUAGE="EN">
+<KINDOFSPORT NAME="Football">
+<LEAGUE NAME="African Cup of Nations (South Africa) (90´)">
+<EVENT NAME="Burkina Faso - Togo" ID="9754897" RESULT="0:0" START_FROM="2013-02-03T19:30:00"/>
+</EVENT>
+</LEAGUE>
+</KINDOFSPORT>
+</FEED>
