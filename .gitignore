@@ -3,3 +3,9 @@
 
 # Ignore Gemfile.lock
 Gemfile.lock
+
+# Ignore .ruby-gemset
+.ruby-gemset
+
+# Ignore .ruby-version
+.ruby-version

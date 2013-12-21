@@ -1,0 +1,14 @@
+<FEED xmlns="" NAME="BettingOffers" DESCRIPTION="All current betting offers for the given kind of sports" LAST_REFRESH="2013-02-04T13:56:04" NEXT_REFRESH="2013-02-04T14:16:04" DOMAIN="www.interwetten.com" LANGUAGE="EN">
+<KINDOFSPORT NAME="Basketball">
+<LEAGUE NAME="Austria Bundesliga " ID="405366">
+<EVENT NAME="BSC Raiffeisen Panthers Fürstenfeld - Guessing Knights" START_TIME="2013-02-04T19:00:00" OPEN_TILL="2013-02-04T19:00:00" EVENTID="9748669">
+<BET ID="24013035" TYPEID="13" TYPENAME="Match" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld " PLAYER2="Guessing Knights" TIP="1" QUOTE="1,85"/>
+<BET ID="24013034" TYPEID="13" TYPENAME="Match" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld " PLAYER2="Guessing Knights" TIP="2" QUOTE="1,85"/>
+<BET ID="24137597" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld(-1.5) " PLAYER2="Guessing Knights(+1.5)" TIP="1" QUOTE="1,85"/>
+<BET ID="24137598" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld(-1.5) " PLAYER2="Guessing Knights(+1.5)" TIP="2" QUOTE="1,85"/>
+<BET ID="24013033" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld - Guessing Knights" PLAYER2="Over 154.5" TIP=" " QUOTE="1,85"/>
+<BET ID="24137599" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld - Guessing Knights" PLAYER2="Over 154.5" TIP=" " QUOTE="1,85"/>
+<BET ID="24137600" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld - Guessing Knights" PLAYER2="Under 154.5" TIP=" " QUOTE="1,86"/>
+<BET ID="24013032" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="BSC Raiffeisen Panthers Fürstenfeld - Guessing Knights" PLAYER2="Under 154.5" TIP=" " QUOTE="1,85"/>
+</EVENT>
+</LEAGUE>
