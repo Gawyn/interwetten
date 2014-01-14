@@ -61,10 +61,11 @@ module Interwetten
 
     def common_process(event)
       gametime = event.get_attribute("GAMETIME").delete("´")
+      sport_id = event.get_attribute("LIVE_KOSID")
       status = event.get_attribute("STATUS")
       name = event.get_attribute("NAME").gsub("(LIVE)", "").gsub("(live)", "")
       name = name.split("-").map { |contender| contender.strip }.join("-")
-      {:gametime => gametime, :status => status, :name => name}
+      {:gametime => gametime, :status => status, :name => name, sport_id: sport_id}
     end
 
     def process_default(event)

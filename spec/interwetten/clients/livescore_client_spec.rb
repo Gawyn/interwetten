@@ -23,7 +23,7 @@ describe Interwetten::LivescoreClient do
       end
 
       it "sends back the correct keys" do
-        @livescore.keys.should == [:gametime, :status, :name, :result]
+        @livescore.keys.should == [:gametime, :status, :name, :sport_id, :result]
       end
     end
   end
