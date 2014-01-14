@@ -63,9 +63,10 @@ module Interwetten
       gametime = event.get_attribute("GAMETIME").delete("´")
       sport_id = event.get_attribute("LIVE_KOSID")
       status = event.get_attribute("STATUS")
+      interwetten_id = event.get_attribute("ID")
       name = event.get_attribute("NAME").gsub("(LIVE)", "").gsub("(live)", "")
       name = name.split("-").map { |contender| contender.strip }.join("-")
-      {:gametime => gametime, :status => status, :name => name, sport_id: sport_id}
+      {interwetten_id: interwetten_id, :gametime => gametime, :status => status, :name => name, sport_id: sport_id}
     end
 
     def process_default(event)
